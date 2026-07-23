@@ -11,19 +11,8 @@
       "resizeMode": "contain",
       "backgroundColor": "#000000"
     },
-    "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.merrdo.olympos"
-    },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#000000"
-      },
       "package": "com.merrdo.olympos"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
     }
   }
 }
